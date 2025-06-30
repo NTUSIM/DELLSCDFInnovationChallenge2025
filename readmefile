@@ -12,4 +12,6 @@ step 3: npx react-native run-android
 docker down:
 docker-compose -f backend/docker-compose.yml down -v
 
+Hello Test
+
 
